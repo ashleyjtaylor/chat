@@ -1,0 +1,10 @@
+{
+  "firebase": {
+    "apiKey": "AIzaSyC4GQrjFq7bSMe_c58J75Iijq8T4SH96O0",
+    "authDomain": "chat-9bdcc.firebaseapp.com",
+    "databaseURL": "https://chat-9bdcc.firebaseio.com",
+    "projectId": "chat-9bdcc",
+    "storageBucket": "chat-9bdcc.appspot.com",
+    "messagingSenderId": "899988293488"
+  }
+}
